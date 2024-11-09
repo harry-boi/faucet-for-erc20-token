@@ -32,6 +32,6 @@ This project implements an ERC token using the Solidity programming language OPe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/erc-token.git
+   git clone https://github.com/harry-boi/faucet-for-erc20-token.git
    cd erc-token
    ```
